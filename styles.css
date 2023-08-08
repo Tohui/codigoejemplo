@@ -5,4 +5,11 @@
     list-style: disc;
 }
 
+.contenedor{
+    background-color: aquamarine;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 7px;
+}
+
 
